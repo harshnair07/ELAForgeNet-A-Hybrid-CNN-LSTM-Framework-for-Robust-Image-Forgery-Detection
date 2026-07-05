@@ -1,0 +1,11 @@
+# Ignore the dataset folder
+CASIA2/
+
+# Ignore the Python virtual environment
+venv/
+
+# Ignore deep learning model weights
+*.h5
+
+# Ignore standard notebook checkpoints
+.ipynb_checkpoints/
